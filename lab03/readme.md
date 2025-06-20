@@ -1,10 +1,10 @@
-1. Công nghệ sử dụng:
+# 1. Công nghệ sử dụng:
 - Bài toán 4-Queens và 8-Queens trong bài thực hành sử dụng:
   + Ngôn ngữ lập trình python.
   + Sử dụng các thư viện: numpy, random
   + Sử  dụng kỹ thuật Backtracking (quay lui).
 
-2.Giải thích cách hoạt động:
+# 2. Giải thích cách hoạt động:
 - Chương trình tìm cách đặt N quân hậu lên bàn cờ NxN sao cho không quân hậu nào tấn công quân hậu khác. Tức là không có 2 quân hậu nào nằm trên cùng hàng, cùng cột hoặc cùng đường chéo.
 - Cách hoạt động theo từng bước:
   + Hàm solve(num_queens): Gọi hàm search() để bắt đầu tìm lời giải từ trạng thái rỗng (state = []).
