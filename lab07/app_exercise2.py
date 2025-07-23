@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-df = pd.read_csv("artificial-intelligence/lab07/drug200.csv")
+df = pd.read_csv("/mount/src/artificial-intelligence/lab07/drug200.csv")
 
 st.title("Thông tin thuốc")
 
