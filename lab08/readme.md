@@ -9,4 +9,7 @@
 + Khởi động lại: Người chơi có thể dễ dàng bắt đầu một ván đấu mới bất cứ lúc nào thông qua tùy chọn trong menu.
 
 # 3. KẾT QUẢ
+<img width="1813" height="704" alt="image" src="https://github.com/user-attachments/assets/c3678128-1fa9-4104-96df-50d01c352efb" />
+<img width="873" height="703" alt="image" src="https://github.com/user-attachments/assets/50676292-e3bc-4ddf-9711-fcff586d6d62" />
+
 
